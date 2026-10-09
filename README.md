@@ -2,7 +2,7 @@
 
 This is a basic readme file. 
 
-#### Here's some math!
+### Here's some math!
 
 $\pi=\frac{22}{7}$
 
